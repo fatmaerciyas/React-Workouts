@@ -2,9 +2,9 @@
 
 ## The first project in my learning react proccess
 
--Rapid Api
--Props and Functions
--Delete and Filter operations
--Basic states and hooks
+ -Rapid Api <br>
+ -Props and Functions<br/>
+ -Delete and Filter operations<br>
+ -Basic states and hooks<br>
 
 
