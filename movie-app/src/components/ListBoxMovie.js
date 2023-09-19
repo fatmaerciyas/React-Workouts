@@ -1,17 +1,14 @@
-export default function ListBoxMovie({ movies }) {
+import ListBoxEachMovie from "./ListBoxEachMovie";
+
+export default function ListBoxMovie({ movies, onSelectMovie }) {
   return (
-    <ul className="list">
+    <ul className="list list-movies">
       {movies?.map((movie) => (
-        <li>
-          <img src={movie.Poster} alt={`${movie.Title} poster`} />
-          <h3>{movie.Title}</h3>
-          <div>
-            <p>
-              <span>🗓</span>
-              <span>{movie.Year}</span>
-            </p>
-          </div>
-        </li>
+        <ListBoxEachMovie
+          onSelectMovie={onSelectMovie}
+          movie={movie}
+          key={movie.imdbId}
+        />
       ))}
     </ul>
   );
