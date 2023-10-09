@@ -58,6 +58,12 @@ body {
   position: relative;
 }
 
+.box::-webkit-scrollbar,
+.list::-webkit-scrollbar {
+  display: none;
+  scroll-behavior: smooth;
+}
+
 .loader {
   text-align: center;
   text-transform: uppercase;
