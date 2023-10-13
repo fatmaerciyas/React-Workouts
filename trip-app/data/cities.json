@@ -59,6 +59,42 @@
         "lng": 19.376933665713324
       },
       "id": 98773197
+    },
+    {
+      "cityName": "McGrath-Holy Cross",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-10-13T12:09:20.634Z",
+      "notes": "",
+      "position": {
+        "lat": "63.56883632803892",
+        "lng": "-154.7564150639659"
+      },
+      "id": 98773198
+    },
+    {
+      "cityName": "Koyukuk-Middle Yukon",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-10-13T12:09:20.634Z",
+      "notes": "",
+      "position": {
+        "lat": "66.06295642615147",
+        "lng": "-155.9427987216992"
+      },
+      "id": 98773199
+    },
+    {
+      "cityName": "Paide",
+      "country": "Estonia",
+      "emoji": "🇪🇪",
+      "date": "2023-10-13T12:23:27.734Z",
+      "notes": "paide was so beautiful",
+      "position": {
+        "lat": "58.98598254511627",
+        "lng": "25.525019171986155"
+      },
+      "id": 98773202
     }
   ]
 }
