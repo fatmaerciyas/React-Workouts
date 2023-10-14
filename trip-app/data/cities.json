@@ -1,100 +1,64 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
+      "cityName": "Mrkonjic Grad",
+      "country": "Bosnia and Herzegovina",
+      "emoji": "💵",
+      "date": "2023-10-14T06:37:05.202Z",
+      "notes": "",
+      "position": {
+        "lat": "44.4808302785626",
+        "lng": "16.98461546801767"
+      },
+      "id": 98773203
+    },
+    {
+      "cityName": "Alijo",
       "country": "Portugal",
-      "emoji": "🥰",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "emoji": "✈️",
+      "date": "2023-10-14T06:38:17.595Z",
+      "notes": "",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": "41.261291493919884",
+        "lng": "-7.405212663437531"
       },
-      "id": 73930385
+      "id": 98773205
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🏄",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "Madrid is great",
+      "cityName": "Lacroix-Barrez",
+      "country": "France",
+      "emoji": "🥐",
+      "date": "2023-10-14T06:40:19.956Z",
+      "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "44.731125592643274",
+        "lng": "2.63521777696246"
       },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🏞️",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
+      "id": 98773206
     },
     {
       "cityName": "Istanbul",
-      "country": "Turkey",
-      "emoji": "🌴",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-10-14T17:27:05.276Z",
+      "notes": "Istanbul is one of my favorites",
       "position": {
-        "lat": 57.53586782505711,
-        "lng": 14.376933665713324
+        "lat": "41.00477542222949",
+        "lng": "29.024564673989424"
       },
-      "id": 98466197
+      "id": 98773207
     },
     {
-      "cityName": "Barcelona",
-      "country": "Spain",
-      "emoji": "😊",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Trstenik",
+      "country": "Serbia",
+      "emoji": "🇷🇸",
+      "date": "2023-10-14T17:27:27.027Z",
+      "notes": "I just love it ",
       "position": {
-        "lat": 58.53586782505711,
-        "lng": 19.376933665713324
+        "lat": "43.67581809328341",
+        "lng": "20.9511802454885"
       },
-      "id": 98773197
-    },
-    {
-      "cityName": "McGrath-Holy Cross",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2023-10-13T12:09:20.634Z",
-      "notes": "",
-      "position": {
-        "lat": "63.56883632803892",
-        "lng": "-154.7564150639659"
-      },
-      "id": 98773198
-    },
-    {
-      "cityName": "Koyukuk-Middle Yukon",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2023-10-13T12:09:20.634Z",
-      "notes": "",
-      "position": {
-        "lat": "66.06295642615147",
-        "lng": "-155.9427987216992"
-      },
-      "id": 98773199
-    },
-    {
-      "cityName": "Paide",
-      "country": "Estonia",
-      "emoji": "🇪🇪",
-      "date": "2023-10-13T12:23:27.734Z",
-      "notes": "paide was so beautiful",
-      "position": {
-        "lat": "58.98598254511627",
-        "lng": "25.525019171986155"
-      },
-      "id": 98773202
+      "id": 98773208
     }
   ]
 }

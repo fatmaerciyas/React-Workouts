@@ -4,6 +4,7 @@ import { useEffect } from "react";
 import { useCities } from "../../context/CitiesContext";
 import Spinner from "./Spinner";
 import BackButton from "./BackButton";
+import ReactCountryFlag from "react-country-flag";
 
 const formatDate = (date) =>
   new Intl.DateTimeFormat("en", {
