@@ -37,28 +37,16 @@
       "id": 98773206
     },
     {
-      "cityName": "Istanbul",
-      "country": "Turkiye",
-      "emoji": "🇹🇷",
-      "date": "2023-10-14T17:27:05.276Z",
-      "notes": "Istanbul is one of my favorites",
+      "cityName": "Greater London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-10-14T17:32:56.461Z",
+      "notes": "I just love it",
       "position": {
-        "lat": "41.00477542222949",
-        "lng": "29.024564673989424"
+        "lat": "51.39920565355378",
+        "lng": "-0.1554364095794503"
       },
-      "id": 98773207
-    },
-    {
-      "cityName": "Trstenik",
-      "country": "Serbia",
-      "emoji": "🇷🇸",
-      "date": "2023-10-14T17:27:27.027Z",
-      "notes": "I just love it ",
-      "position": {
-        "lat": "43.67581809328341",
-        "lng": "20.9511802454885"
-      },
-      "id": 98773208
+      "id": 98773209
     }
   ]
 }
